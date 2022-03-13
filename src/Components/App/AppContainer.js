@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import AppPresenter from "./AppPresenter";
-import Store from "store";
+import Store from "../../store";
 
 class AppContainer extends Component {
   constructor(props) {

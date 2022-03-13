@@ -3,7 +3,7 @@ import PropTypes from "prop-types";
 import styled from "styled-components";
 import Flex, { FlexItem } from "styled-flex-component";
 import FontAwesome from "react-fontawesome";
-import Store from "store";
+import Store from "../../store";
 
 const Notification = styled.div`
   background-color: white;
